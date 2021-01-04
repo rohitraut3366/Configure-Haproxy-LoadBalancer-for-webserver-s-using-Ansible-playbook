@@ -1,4 +1,4 @@
-# Configure-Haproxy-load-Balancer-in-AWS-using-Single-Ansible-playbook : 
+# Configure-Haproxy-load-Balancer-in-AWS-using-Single-Ansible-playbook : https://rohitraut3366.medium.com/deploying-web-servers-haproxy-load-balancer-on-aws-using-ansible-playbook-9ff64b8e5420
 Description:
 ```
 Create Security Groups
