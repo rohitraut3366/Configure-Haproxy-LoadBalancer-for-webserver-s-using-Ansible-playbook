@@ -5,3 +5,6 @@
 3. Retrieve the IP Address of instances using the dynamic inventory concept.
 4. Configure the web servers and Load Balancer through the Ansible Playbook.
 5. The target nodes of the load balancer should auto-update as per the status of web servers.
+
+## Directory Structure:
+![ Directory Structure:](/Structure.png)
